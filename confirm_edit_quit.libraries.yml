@@ -1,0 +1,8 @@
+base:
+  version: 1.x
+  js:
+    js/base.js: {}
+  dependencies:
+    - core/drupalSettings
+    - core/jquery
+    - core/jquery.once

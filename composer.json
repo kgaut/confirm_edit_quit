@@ -1,0 +1,14 @@
+{
+  "name": "kgaut/confirm_edit_quit",
+  "type": "drupal-module",
+  "description": "Display a confirm dialog when quiting node edit form",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/kgaut/confirm_edit_quit",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/kgaut/confirm_edit_quit/issues",
+    "source": "https://github.com/kgaut/confirm_edit_quit/"
+  },
+  "require": { }
+}
